@@ -3,6 +3,8 @@ Uses a image dataset from Kaggle related to Diseased and Healthy Guavas, to trai
 
 > [Guava Image Dataset](https://www.kaggle.com/datasets/asadullahgalib/guava-disease-dataset/data)
 
+The dataset was downloaded then splitted into train, validation and test sets. Then the models were trained using the train dataset, and during the training process validation was done using the validation dataset. Finally evaluation was done using the test dataset.
+
 Transfer Learning Model Used:
 1. MobileNet
 2. ResNet101
