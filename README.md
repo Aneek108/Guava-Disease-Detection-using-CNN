@@ -8,3 +8,11 @@ Transfer Learning Model Used:
 2. ResNet101
 3. VGG16
 4. Hybrid - Random Forest & MobileNet
+
+The accuracies attained by the models are:
+|Models       |Accuracy Score |
+|-------------|---------------|
+|MobileNet    |98.95%         |
+|RFC-MobileNet|92.15%         |
+|VGG16        |98.43%         |
+|ResNet101    |99.48%         |
